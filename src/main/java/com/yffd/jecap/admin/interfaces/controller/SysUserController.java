@@ -1,7 +1,7 @@
 package com.yffd.jecap.admin.interfaces.controller;
 
 import com.yffd.jecap.admin.application.service.user.SysUserAppService;
-import com.yffd.jecap.admin.domain.sys.user.entity.SysUser;
+import com.yffd.jecap.admin.domain.user.entity.SysUser;
 import com.yffd.jecap.common.base.result.RtnResult;
 import com.yffd.jecap.common.base.web.controller.BaseController;
 import io.swagger.annotations.Api;
